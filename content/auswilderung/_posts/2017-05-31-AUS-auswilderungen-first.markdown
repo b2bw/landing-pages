@@ -1,6 +1,7 @@
 ---
-title: 'Auswilderungen'
-date: '2017-05-31 12:00:00'
+title: Auswilderungen
+date: 2017-05-31 12:00:00
+
 ---
 Zunächst müssen die Orang-Utans die Freiheit „üben“ - auf künstlich angelegten oder natürlichen Flussinseln, nahe oder innerhalb der BOS Rettungsstationen. Nachdem sie jahrelang auf ein Leben in der Wildnis vorbereitet wurden, überlassen wir sie dort erstmals sich selbst. Während dieser _Pre-Release_-Phase werden die Tiere regelmässig überwacht, aber nur noch zweimal täglich zugefüttert. Erst wenn Sie sich auf den Übungsinseln bewährt haben, können sie guten Gewissens in die Freiheit entlassen werden.
 
@@ -9,7 +10,7 @@ Für die eigentliche Auswilderung, das _Release_, muss in der Zwischenzeit ein g
 ### Orang-Utan Reise: Von der Rettung bis zur Auswilderung
 
 <p class="graphic_svg" markdown="1">
-    ![]({{ site.baseurl }}/assets/images/auswilderung.svg)
+![]({{ site.baseurl }}/assets/images/auswilderung.svg)
 </p>
 
 Im Anschluss an die tatsächliche Auswilderung findet dann das so genannte _Post-Release Monitoring_ statt. Implantate erlauben uns, die Orang-Utans in den ersten Wochen nach ihrer Auswilderung per Radio-Antenne zu orten und intensiv zu überwachen. Bis zu drei Jahre lang kann das BOSF Feldteam in enger Zusammenarbeit mit Wissenschaftlern und Orang-Utan Experten auf diesem Weg das Wohlergehen und das Verhalten der ausgewilderten Tiere kontrollieren und studieren.
