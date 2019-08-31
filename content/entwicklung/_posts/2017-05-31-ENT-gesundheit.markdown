@@ -20,9 +20,17 @@ Wir leisten deshalb Aufklärungsarbeit, unterstützen den Aufbau von kleinen lok
 Wenn Sie unsere Vorhaben im Gesundheitsbereich unterstützen möchten, spenden Sie jetzt oder abonnieren Sie unsere Printmedien. Wir halten Sie gerne über unsere Projekte auf dem Laufenden!
 
 <div class="action-buttons text-center">
+    <!--
     <button class="bos-button" onclick="submitPayPal('8GS78HG9X3NVL')">
         {% include svg_icon.html name="donate" %} <span>spende jetzt</span>
-    </button> 
+    </button>
+    -->
+    <a href="{{site.donateURL}}">
+        <button class="bos-button">
+            {% include svg_icon.html name="donate" %}
+            <span>spende jetzt</span>
+        </button>
+    </a>
     <a href="http://www.bos-schweiz.ch/de/helfen/unterstuetzung.htm">
     <button class="bos-button">
         {% include svg_icon.html name="aktiv" %} <span>werde aktiv</span>
