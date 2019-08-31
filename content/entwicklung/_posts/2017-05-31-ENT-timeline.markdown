@@ -25,10 +25,11 @@ Unsere Entwicklungszusammenarbeit vor Ort finanzieren wir über Stiftungs- und S
     </button>
 </div>
 -->
-
+<div class="action-buttons text-center">
 <a href="{{site.donateURL}}">
   <button class="bos-button">
     {% include svg_icon.html name="donate" %}
     <span>spende jetzt</span>
   </button>
 </a>
+</div>
