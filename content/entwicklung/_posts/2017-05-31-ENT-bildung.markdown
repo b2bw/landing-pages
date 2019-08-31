@@ -16,9 +16,17 @@ Unsere Aktivitäten im Bildungsbereich richten sich v.a. an benachteiligte Grupp
 Bitte unterstützen Sie unsere Bildungsvorhaben mit einer Spende, starten Sie Ihr eigenes Fundraising und/oder Aufklärungsprojekt in ihrem privaten oder beruflichen Umfeld oder helfen Sie uns als Voluntär in unserer Geschäftsstelle in Zürich oder vor Ort in Borneo.
 
 <div class="action-buttons text-center">
+    <!--
     <button class="bos-button" onclick="submitPayPal('AP6V9Q553SUAU')">
-        {% include svg_icon.html name="donate" %} <span>spende jetzt</span>
-    </button> 
+      {% include svg_icon.html name="donate" %} <span>spende jetzt</span>
+    </button>
+    -->
+    <a href="{{site.donateURL}}">
+        <button class="bos-button">
+            {% include svg_icon.html name="donate" %}
+        <span>spende jetzt</span>
+      </button>
+    </a>
     <a href="http://www.bos-schweiz.ch/de/helfen/unterstuetzung.htm">
         <button class="bos-button">
             {% include svg_icon.html name="aktiv" %} <span>werde aktiv</span>

@@ -18,8 +18,17 @@ date: '2017-11-06 08:00:00'
 
 Unsere Entwicklungszusammenarbeit vor Ort finanzieren wir über Stiftungs- und Spendengelder. Über die Jahre haben wir nicht nur erhebliche Summen für Vorhaben in diesem Bereich eingeworben, sondern auch unseren vertrauenswürdigen Umgang mit den Mitteln bewiesen. Bitte spenden auch Sie oder werden Sie anderweitig aktiv!
 
+<!--
 <div class="action-buttons text-center">
     <button class="bos-button" onclick="submitPayPal('XP9F23BY9AEBU')">
         {% include svg_icon.html name="donate" %} <span>spende jetzt</span>
     </button>
 </div>
+-->
+
+<a href="{{site.donateURL}}">
+  <button class="bos-button">
+    {% include svg_icon.html name="donate" %}
+    <span>spende jetzt</span>
+  </button>
+</a>
