@@ -15,8 +15,11 @@ baseurl: "/landing-pages" # the subpath of your site, e.g. /blog
 url: "https://b2bw.github.io" # the base hostname & protocol for your site
 mailchimpURL: http://eepurl.com/cHtYxn
 
+
 # Build settings
 markdown: kramdown
+
+donateURL: "https://www.bos-schweiz.ch/de/helfen/spenden/bildung.htm?rnw-stored_customer_email_permission=true&rnw-stored_customer_message=Nachhaltige_Entwicklung"
 
 # sass:
 #   sass_dir: _sass
