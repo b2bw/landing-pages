@@ -1,9 +1,9 @@
 ---
-
 section: temp
 category: entwicklung
-title: 'Zuverlässige Partner in Indonesien und der Schweiz'
-date: '2017-11-06 08:01:00'
+title: Zuverlässige Partner in Indonesien und der Schweiz
+date: 2017-11-06 08:01:00
+
 ---
 Unsere Projekte planen und implementieren wir gemeinsam mit der ansässigen Bevölkerung und mit regionalen Partnerorganisationen wie BOSF/RHOI oder LPMK. Inhalt und Zielsetzung der Vorhaben orientieren sich an den Bedürfnissen der Menschen, die zunächst gemeinsam ermittelt werden. Auch den Projektkontext, den Umfang der Aktivitäten und die beteiligten Gruppen identifizieren die BOSF und die Dorfgemeinschaften zusammen. Im Anschluss an diese erste Planungs- und Entwicklungsphase erfolgt eine Finanzierungsanfrage an BOS Schweiz, inklusive einer Darstellung der Problematik und Ziele, des Projektdesigns, eines Zeitplans und Budgets. Sobald BOS Schweiz die finanziellen Mittel eingeworben hat, unterzeichnen die Projektpartner ein Memorandum of Understanding (MoU), das die Kooperation formal regelt. Vor Ort wird das Projekt dann durch die BOSF und die Dorfgemeinschaften umgesetzt, ggf. unter Beteiligung anderer Fachorganisationen vor Ort. Während der Implementierungsphase kontrolliert BOS Schweiz den Projektfortschritt auf Basis regelmässiger Berichterstattung und Projektbesuche, leistet fachliche Unterstützung, verwaltet die Mittel und berichtet an den/die Geldgeber und die Öffentlichkeit (PR). Zwischenanalysen können jederzeit zu einer Anpassung der Projektaktivitäten führen, die am Ende sowohl intern (durch die BOSF und BOS Schweiz) als auch extern evaluiert werden. Mit dem Abschlussbericht an den/die Geldgeber und gegebenenfalls dem Aufgleisen eines Folgeprojektes schliesst sich der Kreis.
 
@@ -12,8 +12,8 @@ Unsere Projekte planen und implementieren wir gemeinsam mit der ansässigen Bev�
 ![]({{ site.baseurl }}/assets/images/process_1.svg)
 
 #### Legende
-<dl class="legend">
 
+<dl class="legend">
 
 <dt>Projektplanung & Entwicklung</dt>
 
@@ -29,7 +29,7 @@ Unsere Projekte planen und implementieren wir gemeinsam mit der ansässigen Bev�
 
 </dl>
 
-Vor Ort und in der Schweiz arbeiten wir eng mit Partnern zusammen, die über jahrelange Erfahrung und Expertise in der Entwicklungszusammenarbeit in Indonesien verfügen. BOS Mitarbeiter werden vor Ort geschult und haben – genau wie wir von BOS Schweiz – über die Jahre wichtige Kompetenzen in den Bereichen Projektplanung, Umsetzung und Evaluation erworben. In der BOS Schweiz Geschäftsstelle in Zürich ist Dr. Elisabeth Labes (Leiterin für Internationale Projekte & Partner) Ihre Ansprechperson für den Bereich Nachhaltige Entwicklungszusammenarbeit.
+Vor Ort und in der Schweiz arbeiten wir eng mit Partnern zusammen, die über jahrelange Erfahrung und Expertise in der Entwicklungszusammenarbeit in Indonesien verfügen. BOS Mitarbeiter werden vor Ort geschult und haben – genau wie wir von BOS Schweiz – über die Jahre wichtige Kompetenzen in den Bereichen Projektplanung, Umsetzung und Evaluation erworben. In der BOS Schweiz-Geschäftsstelle in Zürich ist Moritz Wyss (Leiter Projektmanagement) Ihre Ansprechperson für den Bereich Nachhaltige Entwicklungszusammenarbeit.
 
 ![]({{ site.baseurl }}/assets/images/school-group.jpg)
 
